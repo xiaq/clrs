@@ -10,6 +10,6 @@ clean:
 	pandoc -so $@ $< --template=./template.latex
 
 %.pdf: %.tex
-	pdflatex $<
+	pdflatex --halt-on-error $<
 
 .PHONY: all
