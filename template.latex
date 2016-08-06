@@ -146,6 +146,7 @@ $endfor$
 
 % Added by xiaq
 \newcommand\Solution{\noindent \textbf{Solution}.}
+\usepackage{clrscode3e}
 % End added by xiaq
 
 \begin{document}
