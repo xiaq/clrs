@@ -1,4 +1,4 @@
-\documentclass[a5paper,wide]{$documentclass$}
+\documentclass[a4paper,wide]{$documentclass$}
 $if(fontfamily)$
 \usepackage{$fontfamily$}
 $else$
